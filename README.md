@@ -11,7 +11,7 @@ Presenter | Talk 1 | Talk 2
 ----------|:------:|:-----:
 [Boldor, Amos](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Callahan, Ted](https://github.com/) | [](www.google.com) | [](www.google.com)
-[Clary, Conor](https://github.com/) | [](www.google.com) | [A Few Tips From A Python Core Developer](https://docs.google.com/presentation/d/1KKxATn5YXHtQQTKed_gQMXWVCCTSJrVI5qdvhNGwuAE/edit#slide=id.p)
+[Clary, Conor](https://github.com/copenbacon) | [Ordered Dict](https://docs.google.com/presentation/d/1JYfjWddjOyw8b5IE7B269UVT7Sr57Ma-R1rqf6hZ2hw/edit?usp=sharing) | [Tips from a Python Core Developer](https://docs.google.com/presentation/d/1KKxATn5YXHtQQTKed_gQMXWVCCTSJrVI5qdvhNGwuAE/edit?usp=sharing)
 [Derosa, Joey](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Fieser, Marc](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Fowler, Ford](https://github.com/fordf) | [Bash scripting and shortcuts](https://docs.google.com/presentation/d/1GYcm8Tq43lFVfu6bcKX2ELBqIVsMDcTTLqSOXcJyGXM/edit?usp=sharing) | [Transcrypt]()
@@ -22,7 +22,7 @@ Presenter | Talk 1 | Talk 2
 [Pratt, Avery](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Saunders, Patrick](https://github.com/pasaunders) | [Itertools](https://docs.google.com/presentation/d/1jg7obtXYs6RNa_rDQC9vLwOOAe6JZWLXDuvqhFp9Dng/edit?usp=sharing) | [Software licensing](https://docs.google.com/presentation/d/1hXc4k3HhoYesn9KML1nkSaGXSOc0kI5yYg_iv7P2We0/edit?usp=sharing)
 [Schatzman, Jordan](https://github.com/) | [](www.google.com) | [](www.google.com)
-[Shields, Ben](https://github.com/) | [](www.google.com) | [](www.google.com)
+[Shields, Ben](https://github.com/iamrobinhood12345) | [Rosalind: Practice Bioinformatics and Python](http://rosalind.info/problems/locations/) | [The 20-Minute Python Web-Browser](http://knowpapa.com/wb/)
 [Smith, Sera](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Valenzuela, Rick](https://github.com/) | [](www.google.com) | [](www.google.com)
 [Vance, Maelle](https://github.com/) | [](www.google.com) | [](www.google.com)
